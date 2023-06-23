@@ -1,2 +1,4 @@
 # Mock-project
-Nguyễn Hữu Đức-MockProjectJavaBackEnd
+Mock Project Java BackEnd R2S 
+# Author
+Nguyễn Hữu Đức
